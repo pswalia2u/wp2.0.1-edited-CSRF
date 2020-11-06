@@ -1,0 +1,3 @@
+<?php
+//O:8:"stdClass":18:{s:2:"ID";s:1:"3";s:10:"user_login";s:6:"johnny";s:9:"user_pass";s:32:"e67c10a4c8fbfc0c400e047bb9a056a1";s:13:"user_nicename";s:6:"johnny";s:10:"user_email";s:17:"johnny@johnny.com";s:8:"user_url";s:7:"http://";s:15:"user_registered";s:19:"2020-11-04 02:29:51";s:19:"user_activation_key";s:0:"";s:11:"user_status";s:1:"0";s:12:"display_name";s:6:"johnny";s:10:"first_name";s:6:"johnny";s:9:"last_name";s:6:"johnny";s:8:"nickname";s:6:"johnny";s:15:"wp_capabilities";a:1:{s:13:"administrator";b:1;}s:13:"wp_user_level";s:2:"10";s:10:"user_level";s:2:"10";s:14:"user_firstname";s:6:"johnny";s:13:"user_lastname";s:6:"johnny";}
+?>
